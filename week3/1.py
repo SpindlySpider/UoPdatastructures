@@ -15,6 +15,9 @@ def fibonacci_iteritive(n:int)->int:
         counter +=1
     return number_queue.peek()
 
+fibonacci_recursive(n:int)->int:
+    pass
+    
 
 
 for i in range(10):
