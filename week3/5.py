@@ -17,4 +17,6 @@ def palindrome(string:str)->bool:
     
     
 print(palindrome("aa"))
+
+
     
